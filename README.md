@@ -3,6 +3,8 @@ Animated Control Panel Webpage
 
 This project is an animated control panel built using HTML, CSS, and JavaScript. The design features a circular interface with buttons, knobs, and displays, simulating a modern, interactive control system.
 
+Live Demo: https://subin-hub69.github.io/Climate/
+
 
 Features
 
